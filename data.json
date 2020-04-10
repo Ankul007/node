@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "Name":"Silver",
+            "Type":"Metal",
+            "Price": 1000
+        },
+        {
+            "Name":"Gold",
+            "Type":"Metal",
+            "Price": 30000
+        },
+        {
+            "Name":"Platinum",
+            "Type":"Metal",
+            "Price": 500000
+        }
+     ]
+}
