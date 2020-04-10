@@ -1,4 +1,4 @@
-let data = require('./data');
+const data = require('./data');
 console.log("Data before modification: ", data);
 
 //changing data of Silver from 1000 => 999
